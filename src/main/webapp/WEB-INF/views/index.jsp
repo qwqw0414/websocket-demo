@@ -11,7 +11,7 @@
 
 <div id="username-page">
     <div class="username-page-container">
-        <h1 class="title">username을 입력하세요</h1>
+        <h1 class="title">name을 입력하세요</h1>
         <form id="usernameForm" name="usernameForm">
             <div class="form-group">
                 <input type="text" id="name" placeholder="Username" autocomplete="off" class="form-control" />
